@@ -206,7 +206,7 @@ html{
 }
 
 
-
+/*Animation start*/
 
 @keyframes moveInLeft {
 	0%{
@@ -246,6 +246,9 @@ html{
     }
 }
 
+/*Animation end*/
+
+/*Media Queries start*/
 
 @media (max-width: 64em){
 
@@ -307,3 +310,5 @@ html{
         height: 64rem;
     }
 }
+
+/*Media Queries end*/
